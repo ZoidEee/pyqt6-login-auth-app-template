@@ -16,17 +16,15 @@ This project demonstrates a simple authentication system using PyQt6. It include
 1. Clone the repository:
 
 git clone https://github.com/yourusername/pyqt6-auth-system.git
-text
 
 2. Navigate to the project directory:
 
 cd pyqt6-auth-system
-text
+
 
 3. Install the required packages:
 
 pip install -r requirements.txt
-text
 
 ## Usage
 
@@ -34,7 +32,6 @@ Run the main script to start the application:
 
 
 python main.py
-text
 
 - If it's the first time running the application, you'll be prompted to create a master password.
 - For subsequent runs, you'll need to enter the master password to access the main window.
